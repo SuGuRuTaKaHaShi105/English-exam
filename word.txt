@@ -1,0 +1,400 @@
+  1 peaple 人々
+  2 family 家族
+  3 friend 友達
+  4 school 学校
+  5 student 生徒
+  6 teacher 先生
+  7 homework 宿題
+  8 day 1日、日
+  9 morning 朝、午前
+ 10 afternoon 午後
+ 11 night 夜
+ 12 time 時、時間
+ 13 week 週
+ 14 month 月
+ 15 year 年、〜歳
+ 16 May 5月
+ 17 October 10月
+ 18 summer 夏
+ 19 winter 冬
+ 20 animal 動物
+ 21 dog イヌ
+ 22 rabbit ウサギ
+ 23 book 本
+ 24 movie 映画
+ 25 TV テレビ
+ 26 drama ドラマ
+ 27 picture 絵、写真
+ 28 course コース
+ 29 festival 祭り
+ 30 food 食べ物
+ 31 breakfast 朝食
+ 32 lunch 昼食、ランチ
+ 33 dinner 夕食、ディナー
+ 34 restaurant レストラン
+ 35 music 音楽
+ 36 piano ピアノ
+ 37 guitar ギター
+ 38 song 歌
+ 39 sport スポーツ
+ 40 soccer サッカー
+ 41 tennis テニス
+ 42 team チーム
+ 43 player 選手
+ 44 brirthday 誕生日
+ 45 color 色
+ 46 zoo 動物園
+ 47 park 公園、駐車する
+ 48 tea お茶
+ 49 cherry 桜の木
+ 50 house 家
+ 51 wall 壁
+ 52 cap 帽子
+ 53 notebook ノート
+ 54 pen ペン
+ 55 pencil 鉛筆
+ 56 umbrella 傘
+ 57 chair いす
+ 58 weekend 週末
+ 59 concert コンサート
+ 60 musician 音楽家、ミュージシャン
+ 61 go 行く
+ 62 come 来る
+ 63 want ほしい
+ 64 know 知っている
+ 65 make 作る
+ 66 see 見える、会う
+ 67 look 見る、見える
+ 68 watch 見る、腕時計
+ 69 think 思う、考える
+ 70 use 用いる、使用
+ 71 play する、劇
+ 72 talk 話す、話
+ 73 enjoy 楽しむ
+ 74 eat 食べる
+ 75 get 得る
+ 76 take 乗っていく、連れていく
+ 77 try 試す、試み
+ 78 listen 聞く
+ 79 hear 聞こえる
+ 80 visit 訪問する、訪問
+ 81 wait 待つ
+ 82 win 勝つ
+ 83 fall 落ちる、倒れる、秋
+ 84 sing 歌う
+ 85 keep 保管する、保つ
+ 86 draw 描く、(線を)引く
+ 87 write 書く
+ 88 stop 止まる
+ 89 put 置く
+ 90 study 勉強する、勉強
+ 91 learn 学ぶ
+ 92 walk 歩く、徒歩
+ 93 run 走る
+ 94 buy 買う
+ 95 read 読む
+ 96 practice 練習する、練習
+ 97 leave 出発する、置き忘れる
+ 98 drink 飲む、飲み物
+ 99 turn 向きを変える、順番
+100 check 点検する、点検
+101 ride 乗る
+102 swim 泳ぐ
+103 wash 洗う
+104 dance 踊る、ダンス
+105 jump とぶ、とびはねる
+106 help 手伝う、助け、手伝い
+107 say 言う
+108 work 働く、仕事、作品
+109 bus バス
+110 club クラブ
+111 museum 博物館、美術館
+112 shopping 買い物
+113 library 図書館
+114 apple リンゴ
+115 box 箱
+116 ball ボール
+117 subject 教科
+118 math 数学
+119 science 理科、科学
+120 art 芸術、美術
+121 cat ネコ
+122 penguin ペンギン
+123 gym 体育館
+124 bath 入浴
+125 window 窓
+126 snake 軽食、おやつ
+127 ink インク
+128 king  王
+129 queen 女王
+130 shoe 靴
+131 flower 花
+132 tree 木
+133 station 駅
+134 computer コンピューター
+135 girl 少女
+136 boy 少年
+137 street 通り
+138 hospital 病院
+139 doctor 医者
+140 mountain 山
+141 sea 海
+142 table テーブル
+143 desk 机
+144 card カード、ハガキ
+145 classroom 教室
+146 dish 皿
+147 stadium 競技場、スタジアム
+148 firework 花火
+149 bed ベッド
+150 vacation 休暇
+151 bread パン
+152 pie パイ
+153 shrine 神社
+154 temple 寺院、寺
+155 newspaper 新聞
+156 star 星、スター
+157 juice ジュース
+158 salad サラダ
+159 noodle めん類
+160 soup スープ
+161 bicycle 自転車
+162 artist 芸術家
+163 hat 帽子
+164 shirt シャツ
+165 hero 英雄、ヒーロー
+166 football フットボール
+167 jet ジェット機
+168 eye 目
+169 change 変える、変わる、変化
+170 give 与える
+171 teach 教える
+172 tell 話す、伝える
+173 show 見せる、ショー
+174 bring 持ってくる
+175 find 見つける
+176 stay 滞在する、滞在
+177 feel 感じる
+178 thank 感謝する、感謝
+179 choose 選ぶ
+180 sound 聞こえる、思える。音
+181 join 加わる
+182 meet 会う、出会う
+183 grow 成長する、育てる
+184 arrive 到着する
+185 send 送る
+186 happen 起こる
+187 follow のあとについていく
+188 hold 持っている、抱く
+189 relax くつろぐ
+190 perform 演じる
+191 need 必要とする、必要
+192 start 始める、始まる、出発する
+193 become なる
+194 hope 望む、願い
+195 worry 心配する
+196 catch つかまえる、間に合う
+197 set 置く、配置する、一組
+198 ski スキーをする
+199 skate スケートをする
+200 speak 話す
+201 like 好きだ、〜のような
+202 live 住む、生きる
+203 cook 料理する、料理人
+204 open 開ける、開いている
+205 do する
+206 be ある、なる、いる
+207 can 〜できる、缶
+208 will 〜するだろう
+209 must 〜しなければならない
+210 may 〜かもしれない
+211 word 単語
+212 language 言語
+213 English 英語、英語の
+214 Japanese 日本語、日本人
+215 thing もの、こと
+216 problem 問題
+217 question 質問
+218 way 方法、道
+219 world 世界
+220 country 国
+221 life 生活、生命、一生
+222 man 男の人
+223 woman 女の人
+224 class クラス、授業
+225 classmate 同級生、クラスメート
+226 game 試合、ゲーム
+227 idea 考え、アイデア
+228 room 部屋
+229 city 市、都市
+230 town 町
+231 example 例
+232 job 仕事
+233 part 部分、役割、役
+234 story 話、物語
+235 event 行事、できごと
+236 river 川
+237 lake 湖
+238 trip 旅行
+239 tourist 観光客
+240 e-mail Eメール、Eメールを送る
+241 evening 夕方、晩
+242 weather 天気
+243 green 緑の、緑
+244 white 白い、白
+245 red 赤い、赤
+246 black 黒い、黒
+247 blue 青い、青
+248 brown 茶色い、茶色
+249 some いくつかの、いくらかの
+250 many 多くの
+251 every どの〜もみな、毎〜
+252 old 古い、歳をとった、〜歳の
+253 new 新しい
+254 other 他の、ほかのもの
+255 big 大きい
+256 small 小さい
+257 tall 高い
+258 great すばらしい、偉大な
+259 last 最後の、この前の
+260 nice すてきな、よい
+261 famous 有名な
+262 busy 忙しい
+263 tired 疲れた
+264 delicious とてもおいしい
+265 sweet 甘い
+266 anoyher 別の、もう一つの
+267 all すべての、すべて
+268 any いくらかの、何かしらの
+269 traditional 伝統的な
+270 hungry 空腹な
+271 sleepy 眠い
+272 long 長い
+273 short 短い、低い
+274 king 親切な、優しい、種類
+275 happy 幸せな、うれしい
+276 sad 悲しい
+277 wonderful すばらしい
+278 hundred 100の、100
+279 there そこに
+280 here ここに
+281 now 今
+282 very 非常に、とても
+283 too あまりに〜すぎる
+284 often よく、しばしば
+285 sametimes ときどき
+286 really 本当に
+287 please どうぞ
+288 usually たいてい、ふつうは
+289 yesterday 昨日
+290 hard 熱心に、困難な、固い
+291 yes はい
+292 always いつも、常に
+293 back 戻って、後ろへ、背中
+294 first 最初に、第1に
+295 clock 時計
+296 phone 電話
+297 cup カップ、茶碗
+298 garbage 生ごみ
+299 performance 上演、演技、演奏
+300 beach 浜、浜辺
+301 castle 城
+302 chocolate チョコレート
+303 racket ラケット
+304 leg 脚、足
+305 shop 店
+306 store 店
+307 bookstore 書店
+308 supermarket スーパーマーケット
+309 post-office 郵便局　
+310 drum 太鼓、ドラム
+311 mouth 口
+312 ear 耳
+313 heart 心臓
+314 case 場合、箱、ケース
+315 cousin いとこ
+316 fan ファン、扇
+317 towel タオル
+318 photographer 写真家
+319 glove 手袋
+320 mouse ネズミ
+321 door ドア
+322 love 愛、愛している
+323 name 名前、名前をつける
+324 fish 魚
+325 face 顔
+326 bag カバン
+327 answer 答え、返答、答える
+328 place 場所
+329 future 未来、将来
+330 ship 船
+331 hot 熱い、暑い
+332 cold 冷たい、寒い、風邪
+333 rainy 雨降りの
+334 cloudy 曇りの
+335 cheerful 元気のいい。うれしそうな
+336 heavy 重い
+337 light 軽い、明るい、光、明かり
+338 no 1つの〜もない、いいえ
+339 important 重要な、大切な
+340 much たくさんの、ずっと
+341 difficult 難しい
+342 easy 簡単な
+343 sure 確信して、もちろん
+344 right 正しい、右
+345 popular 人気のある
+346 funny おもしろい
+347 interesting 興味深い、おもしろい
+348 interested 興味を持った
+349 exciting 興奮させる、わくわくさせる
+350 excited 興奮して、わくわくして
+351 surprised 驚いた
+352 special 特別な、特別なもの
+353 favorite お気に入りの、大好きな
+354 such そのような
+355 local 地元の、その土地の
+356 true 本当の、真実の
+357 useful 役に立つ
+358 large 大きい、広い
+359 cool かっこいい、涼しい
+360 next 次の、隣の
+361 high 高い
+362 free　暇な、自由な
+363 good よい、上手な、よろしい
+364 beautiful 美しい
+365 sunny よく晴れた
+366 clean きれいな、掃除する
+367 later あとで
+368 ago 〜前に
+369 soon まもなく、すぐに
+370 tomorrow 明日
+371 still まだ、今でも
+372 away 離れて、去って
+373 abroad 外国に
+374 a.m. 午前
+375 p.m. 午後
+376 then そのとき、それから
+377 up 上へ、起きて 
+378 down 下に
+379 together いっしょに
+380 just ただ〜だけ、ちょうど
+381 also 〜もまた
+382 where どこに
+383 when いつ
+384 how どの様にして、どのくらい
+385 why なぜ
+386 who だれ
+387 which どちら、どちらの
+388 what 何、何の
+389 whose だれの、だれのもの
+390 one 1つ、1人、1、1つの
+391 something 何か、あること
+392 anything 何か、何も
+393 everyone だれでも、みな
+394 could 〜できた
+395 would 〜だろう
+396 should 〜すべきだ
+397 as 
+398 around 〜のまわりに
+399 after 〜のあとに
+400 before 〜の前に、以前、かつて
